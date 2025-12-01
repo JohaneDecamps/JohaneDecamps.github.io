@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{
 font-size: 30px;
 text-align: center;
@@ -12,4 +13,20 @@ font-family: Helvetica, sans-serif;
 
 body {
 background-color: #007471;
+=======
+h1{
+font-size: 30px;
+text-align: center;
+color: #de7471
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: #007471;
+>>>>>>> 55b47c6 (ajout css et html)
 }
